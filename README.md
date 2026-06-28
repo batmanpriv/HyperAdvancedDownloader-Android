@@ -34,6 +34,25 @@
 
 ---
 
+## 📱 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/4cd9f819-76fb-4d0f-8b7e-38a9e6ed100e" width="200" alt="Main Screen"/></td>
+      <td><img src="https://github.com/user-attachments/assets/ea94798d-efda-4264-a4f8-94290fe94a4e" width="200" alt="Download Manager"/></td>
+      <td><img src="https://github.com/user-attachments/assets/88d4088e-8017-4e26-8401-5b079e262572" width="200" alt="HLS Download"/></td>
+      <td><img src="https://github.com/user-attachments/assets/e38134c4-c530-4ba6-b3b8-1972ceb17fa6" width="200" alt="Torrent Client"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Main Dashboard</b></td>
+      <td align="center"><b>Download Manager</b></td>
+      <td align="center"><b>HLS Stream Download</b></td>
+      <td align="center"><b>Torrent Client</b></td>
+    </tr>
+  </table>
+</div>
+
 ## ✨ Features
 
 ### ⚡ Core Downloading
