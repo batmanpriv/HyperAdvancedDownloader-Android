@@ -283,13 +283,13 @@ app/src/main/java/com/had/downloader/
 ### Steps
 
 ```bash
-git clone https://github.com/batmanpriv/HAD.git
-cd HAD
+git clone https://github.com/batmanpriv/HyperAdvancedDownloader-Android.git
+cd HyperAdvancedDownloader-Android
 ```
 
 Open in Android Studio:
 ```
-File → Open → select the HAD folder → wait for Gradle sync
+File → Open → select the HyperAdvancedDownloader-Android folder → wait for Gradle sync
 ```
 
 Run on device:
