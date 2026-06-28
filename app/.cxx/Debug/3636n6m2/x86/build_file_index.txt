@@ -1,0 +1,1 @@
+C:\Users\007\Desktop\HAD\app\src\main\cpp\CMakeLists.txt

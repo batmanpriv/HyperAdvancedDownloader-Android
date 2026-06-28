@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/007/Desktop/HAD/app/.cxx/Debug/3636n6m2/x86",
+  "command": "C:\\AndroidSDK\\ndk\\27.3.13750724\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android26 --sysroot=C:/AndroidSDK/ndk/27.3.13750724/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dhadjni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\hadjni.dir\\Hadjni.cpp.o -c C:\\Users\\007\\Desktop\\HAD\\app\\src\\main\\cpp\\Hadjni.cpp",
+  "file": "C:\\Users\\007\\Desktop\\HAD\\app\\src\\main\\cpp\\Hadjni.cpp",
+  "output": "CMakeFiles\\hadjni.dir\\Hadjni.cpp.o"
+}
+]

@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\007\\Desktop\\HAD\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Program Files\\CMake\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\007\\Desktop\\HAD\\app\\.cxx\\Debug\\3636n6m2\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Program Files\\CMake\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\007\\Desktop\\HAD\\app\\.cxx\\Debug\\3636n6m2\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hadjni::@6890427a1f51a3e7e1df": {
+      "artifactName": "hadjni",
+      "abi": "x86",
+      "output": "C:\\Users\\007\\Desktop\\HAD\\app\\build\\intermediates\\cxx\\Debug\\3636n6m2\\obj\\x86\\libhadjni.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.had.downloader.app-mergeDebugResources-71:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\007\\.gradle\\caches\\8.9\\transforms\\7bc8a3f320c7e7533c7a7b8028254643\\transformed\\appcompat-1.6.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

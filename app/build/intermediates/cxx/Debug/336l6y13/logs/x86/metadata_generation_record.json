@@ -1,0 +1,119 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: x86",
+    "file_": "C:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\007\\Desktop\\HADAndroid\\app\\.cxx\\Debug\\336l6y13\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\007\\Desktop\\HADAndroid\\app\\.cxx\\Debug\\336l6y13\\x86\u0027",
+    "file_": "C:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\007\\Desktop\\HADAndroid\\app\\.cxx\\Debug\\336l6y13\\x86\u0027",
+    "file_": "C:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Program Files\\\\CMake\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d26\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-26\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\AndroidSDK\\\\ndk\\\\27.3.13750724\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\AndroidSDK\\\\ndk\\\\27.3.13750724\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\AndroidSDK\\\\ndk\\\\27.3.13750724\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003d\" ^\n  \"-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\336l6y13\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\336l6y13\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\.cxx\\\\Debug\\\\336l6y13\\\\x86\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Program Files\\\\CMake\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d26\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-26\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\AndroidSDK\\\\ndk\\\\27.3.13750724\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\AndroidSDK\\\\ndk\\\\27.3.13750724\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\AndroidSDK\\\\ndk\\\\27.3.13750724\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003d\" ^\n  \"-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\336l6y13\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\336l6y13\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\.cxx\\\\Debug\\\\336l6y13\\\\x86\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 1",
+    "file_": "C:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: -- Configuring incomplete, errors occurred!\n\nC++ build system [configure] failed while executing:\n    @echo off\n    \"C:\\\\Program Files\\\\CMake\\\\bin\\\\cmake.exe\" ^\n      \"-HC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\src\\\\main\\\\cpp\" ^\n      \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n      \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n      \"-DCMAKE_SYSTEM_VERSION\u003d26\" ^\n      \"-DANDROID_PLATFORM\u003dandroid-26\" ^\n      \"-DANDROID_ABI\u003dx86\" ^\n      \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n      \"-DANDROID_NDK\u003dC:\\\\AndroidSDK\\\\ndk\\\\27.3.13750724\" ^\n      \"-DCMAKE_ANDROID_NDK\u003dC:\\\\AndroidSDK\\\\ndk\\\\27.3.13750724\" ^\n      \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\AndroidSDK\\\\ndk\\\\27.3.13750724\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n      \"-DCMAKE_MAKE_PROGRAM\u003d\" ^\n      \"-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17\" ^\n      \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\336l6y13\\\\obj\\\\x86\" ^\n      \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\336l6y13\\\\obj\\\\x86\" ^\n      \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n      \"-BC:\\\\Users\\\\007\\\\Desktop\\\\HADAndroid\\\\app\\\\.cxx\\\\Debug\\\\336l6y13\\\\x86\" ^\n      -GNinja\n  from C:\\Users\\007\\Desktop\\HADAndroid\\app\nCMake Error: CMake was unable to find a build program corresponding to \"Ninja\".  CMAKE_MAKE_PROGRAM is not set.  You probably need to select a different build tool.",
+    "file_": "C:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

@@ -1,0 +1,7 @@
+#Sun Jun 28 16:17:28 IRST 2026
+base.0=C\:\\Users\\007\\Desktop\\HAD\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\007\\Desktop\\HAD\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\5\\classes.dex
+path.0=0/classes.dex
+path.1=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,19 @@
+@echo off
+"C:\\Program Files\\CMake\\bin\\cmake.exe" ^
+  "-HC:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp" ^
+  "-DCMAKE_SYSTEM_NAME=Android" ^
+  "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+  "-DCMAKE_SYSTEM_VERSION=26" ^
+  "-DANDROID_PLATFORM=android-26" ^
+  "-DANDROID_ABI=armeabi-v7a" ^
+  "-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a" ^
+  "-DANDROID_NDK=C:\\AndroidSDK\\ndk\\27.3.13750724" ^
+  "-DCMAKE_ANDROID_NDK=C:\\AndroidSDK\\ndk\\27.3.13750724" ^
+  "-DCMAKE_TOOLCHAIN_FILE=C:\\AndroidSDK\\ndk\\27.3.13750724\\build\\cmake\\android.toolchain.cmake" ^
+  "-DCMAKE_CXX_FLAGS=-std=c++17" ^
+  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\\Users\\007\\Desktop\\HADAndroid\\app\\build\\intermediates\\cxx\\Debug\\1x442e3q\\obj\\armeabi-v7a" ^
+  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\\Users\\007\\Desktop\\HADAndroid\\app\\build\\intermediates\\cxx\\Debug\\1x442e3q\\obj\\armeabi-v7a" ^
+  "-DCMAKE_BUILD_TYPE=Debug" ^
+  "-BC:\\Users\\007\\Desktop\\HADAndroid\\app\\.cxx\\Debug\\1x442e3q\\armeabi-v7a" ^
+  -GNinja ^
+  "-DCMAKE_MAKE_PROGRAM=ninja"

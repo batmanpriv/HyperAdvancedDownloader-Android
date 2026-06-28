@@ -1,0 +1,10 @@
+CMake Error at CMakeLists.txt:2 (project):
+  Running
+
+   'ninja' '--version'
+
+  failed with:
+
+   no such file or directory
+
+

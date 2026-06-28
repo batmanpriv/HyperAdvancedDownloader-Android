@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+color cyan_primary
+color space_black
+color surface_dark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_splash
+mipmap ic_launcher
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Theme.HADDownloader
+style Theme.HADDownloader.SplashScreen
+style Theme.HAD.Transparent
+xml file_paths

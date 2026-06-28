@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\007\\Desktop\\HADAndroid\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Program Files\\CMake\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\007\\Desktop\\HADAndroid\\app\\.cxx\\Debug\\3636n6m2\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Program Files\\CMake\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\007\\Desktop\\HADAndroid\\app\\.cxx\\Debug\\3636n6m2\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hadjni::@6890427a1f51a3e7e1df": {
+      "artifactName": "hadjni",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\007\\Desktop\\HADAndroid\\app\\build\\intermediates\\cxx\\Debug\\3636n6m2\\obj\\armeabi-v7a\\libhadjni.so",
+      "runtimeFiles": []
+    }
+  }
+}

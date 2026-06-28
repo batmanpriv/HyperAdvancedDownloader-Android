@@ -1,0 +1,1 @@
+{"className":"com.had.downloader.service.Hilt_BootReceiver","classAnnotations":["dagger.hilt.android.internal.OnReceiveBytecodeInjectionMarker"],"interfaces":[],"superClasses":["android.content.BroadcastReceiver","java.lang.Object"]}

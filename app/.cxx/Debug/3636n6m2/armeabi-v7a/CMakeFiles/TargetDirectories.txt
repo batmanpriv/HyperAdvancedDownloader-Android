@@ -1,0 +1,3 @@
+C:/Users/007/Desktop/HADAndroid/app/.cxx/Debug/3636n6m2/armeabi-v7a/CMakeFiles/hadjni.dir
+C:/Users/007/Desktop/HADAndroid/app/.cxx/Debug/3636n6m2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/007/Desktop/HADAndroid/app/.cxx/Debug/3636n6m2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
