@@ -438,6 +438,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 *A fully Kotlin-based native Android app*
 
-**Version 3.6.8** · **Release Date:** July 2025
-
 </div>
