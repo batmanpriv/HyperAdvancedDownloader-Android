@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- H letter mark in cyan -->
+    <path
+        android:fillColor="#00D4FF"
+        android:pathData="M20,20 L20,88 L36,88 L36,58 L72,58 L72,88 L88,88 L88,20 L72,20 L72,44 L36,44 L36,20 Z"/>
+</vector>
