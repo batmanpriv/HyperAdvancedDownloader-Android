@@ -15,7 +15,7 @@
 [![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Jetpack%20Compose-Material3-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://developer.android.com/compose)
-[![Version](https://img.shields.io/badge/Version-3.7.13-00FF88?style=flat-square)](https://github.com/batmanpriv/HyperAdvancedDownloader-Android/releases)
+[![Version](https://img.shields.io/badge/Version-3.7.15-00FF88?style=flat-square)](https://github.com/batmanpriv/HyperAdvancedDownloader-Android/releases)
 [![Downloads](https://img.shields.io/badge/Downloads-50%2B-blue?style=flat-square)]()
 
 
