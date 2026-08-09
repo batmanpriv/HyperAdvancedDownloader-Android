@@ -53,6 +53,7 @@
   - [⏰ Download Scheduler](#-download-scheduler)
   - [🔐 Advanced Options](#-advanced-options)
   - [📊 Analytics Dashboard](#-analytics-dashboard)
+  - [🎨 Themes & Bilingual UI](#-themes--bilingual-ui)
   - [🎨 UI & Experience](#-ui--experience)
 - [📱 Screenshots](#-screenshots)
 - [🏗️ Architecture](#️-architecture)
@@ -224,6 +225,34 @@ Whether you're downloading 4K movies, streaming HLS video, torrenting Linux ISOs
 | **Recent History** | Last 200 downloads with details | Troubleshooting or tracking specific downloads |
 | **Auto-Purge** | Data > 30 days auto-removed | Keeping database manageable |
 
+### 🎨 Themes & Bilingual UI
+
+HAD comes with **6 professional color themes** and full **bilingual support** (English & Persian/Farsi), giving users a personalized and accessible experience.
+
+| Feature | How to Use | Details |
+|---------|-----------|---------|
+| **🌗 Color Themes** | Settings → Appearance → Theme | Choose from 6 unique color themes |
+| **🌐 Bilingual** | Settings → Appearance → Language | Switch between English and Persian (Farsi) |
+| **📱 Persistent Settings** | Automatic | Theme and language preferences are saved across app restarts |
+
+**Available Color Themes:**
+
+| Theme | Description |
+|-------|-------------|
+| **Cyber Cyan** | The original HAD look — deep space black with electric cyan (#00D4FF) |
+| **Rose Quartz** | Chic and modern — plum-black surfaces with rose pink and lilac accents |
+| **Lavender Bloom** | Soft and modern — dusky violet surfaces with lavender and pink glow |
+| **Matrix Classic** | Pure black terminal with classic phosphor-green glow |
+| **Neon Matrix** | Modern cyberpunk matrix — neon green with glitchy magenta/cyan pops |
+| **Midnight Onyx** | Elegant and understated — graphite black with warm champagne gold |
+| **Obsidian Royale** | Rich and elegant — deep navy-black with royal indigo and violet |
+
+**Why This Matters:**
+- **Personalized Experience**: Every user can customize the app's look to match their style
+- **Accessibility**: Different themes work better for different visual preferences and lighting conditions
+- **International Reach**: Persian-speaking users can use the app in their native language
+- **State Persistence**: Settings are saved automatically — no need to reconfigure after restart
+
 ### 🎨 UI & Experience
 
 | Feature | How to Use | Why It's Great |
@@ -302,7 +331,8 @@ app/src/main/java/com/had/downloader/
 │
 ├── ui/
 │   ├── theme/
-│   │   └── Theme.kt                   ← Colors (#00D4FF), typography, Material3 scheme
+│   │   ├── Theme.kt                   ← Colors (#00D4FF), typography, Material3 scheme
+│   │   └── Localization.kt            ← Bilingual support (EN/FA)
 │   ├── components/
 │   │   ├── Components.kt              ← Shared UI components (DownloadCard, etc.)
 │   │   ├── ThreadVisualizer.kt        ← Download thread visualization (3 modes)
@@ -318,7 +348,7 @@ app/src/main/java/com/had/downloader/
 │       ├── TorrentTab.kt              ← Torrent management UI
 │       ├── RemoteServerTab.kt         ← Remote server control UI
 │       ├── WebArchiveTab.kt           ← Web archive UI
-│       ├── SettingsDialog.kt          ← App settings dialog
+│       ├── SettingsDialog.kt          ← App settings dialog (including Theme & Language)
 │       ├── AboutTab.kt                ← About + donate
 │       ├── GuideTab.kt                ← Full in-app user guide (EN/FA)
 │       ├── SchedulePicker.kt          ← Schedule time picker
@@ -348,12 +378,12 @@ app/src/main/java/com/had/downloader/
 | **Room** | Local database for download history | 2.6.0 |
 | **Kotlin Coroutines + Flow** | Async operations and reactive state | 1.7.3 |
 | **FFmpeg Kit** | HLS segment merging and MP4 conversion | 6.0-1 |
+| **ZXing** | QR Code generation | 3.5.3 |
 | **AlarmManager** | Exact scheduled downloads (Doze-safe) | Android Framework |
 | **WebView** | Built-in browser with JS bridge | Android Framework |
 | **SharedPreferences** | User preferences storage | Android Framework |
 | **Foreground Service** | Background download execution | Android Framework |
 | **Broadcast Receiver** | Boot completion and alarm triggers | Android Framework |
-| **ZXing** | QR Code generation | 3.5.3 |
 
 ---
 
@@ -405,6 +435,8 @@ All settings are configurable from the in-app **Settings** screen:
 | **Gzip** | Disabled | Enable gzip compression | Settings → Options → Enable Gzip |
 | **Session Resume** | Enabled | Resume interrupted downloads | Settings → Options → Save Session |
 | **Notifications** | Enabled | Show download notifications | Settings → Options → Show Notifications |
+| **Language** | English | App language (English/Persian) | Settings → Appearance → Language |
+| **Theme** | Cyber Cyan | Color theme (7 options) | Settings → Appearance → Theme |
 
 ---
 
@@ -451,5 +483,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 | **Tron (TRX)** | `TQsUASZzfcKg4AckFFv1YjKgU8QCniUwhv` |
 
 [![Donate](https://img.shields.io/badge/Donate-coffeete.ir-FF8C42?style=for-the-badge)](https://www.coffeete.ir/specter)
-
----
